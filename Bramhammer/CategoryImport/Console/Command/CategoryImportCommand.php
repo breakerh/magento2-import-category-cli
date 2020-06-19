@@ -63,7 +63,8 @@
 			$this->exitOnError = $input->getOption(self::EXIT);
 			
 			$this->output = $output;
-			$parentid = 2;
+			$parentid = 2; // Change this to YOUR parent category id! (default category)
+			// change the category structure here. example is given
 			$categorys = [
 				'main category' => [
 					"sub category",

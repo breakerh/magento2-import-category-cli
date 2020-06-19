@@ -26,3 +26,7 @@ Execute the command with `-e` (or `--exit`) to stop it at every error.
 ## Know to work with:
 
 - Magento 2.3.5-p1
+
+## Known issues
+
+- It's not the fastest.. But it does the job.
